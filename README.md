@@ -1,2 +1,1 @@
-# Gaurav-Payal
-My personal repository.
+# About me
